@@ -16,5 +16,6 @@ namespace GestionCajas
         {
             InitializeComponent();
         }
+        //klq
     }
 }
