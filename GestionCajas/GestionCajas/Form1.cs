@@ -15,6 +15,7 @@ namespace GestionCajas
         public Form1()
         {
             InitializeComponent();
+            Console.WriteLine("lalalala");
             Console.WriteLine("Prueba");
         }
         //klq x2
