@@ -15,8 +15,6 @@ namespace GestionCajas
         public Form1()
         {
             InitializeComponent();
-            Console.WriteLine("Prueba");
-            Console.ReadKey();
         }
     }
 }
