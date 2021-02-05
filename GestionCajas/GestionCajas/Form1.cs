@@ -17,6 +17,7 @@ namespace GestionCajas
             InitializeComponent();
             Console.WriteLine("lalalala");
             Console.WriteLine("Prueba");
+            //klk
         }
         //klq x2
     }
