@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,12 +15,7 @@ namespace GestionCajas
         public Form1()
         {
             InitializeComponent();
-            Console.WriteLine("lalalala");
-            Console.WriteLine("Prueba");
-            //klk
         }
-        //klq x2
+        //klq
     }
 }
-//klk x3
-//klq *4
